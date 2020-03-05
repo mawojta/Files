@@ -1,0 +1,12 @@
+a: 4
+by: 1
+cat: 3
+fat: 1
+hat: 2
+on: 2
+sat: 2
+the: 1
+very: 1
+was: 2
+
+Total Words: 19

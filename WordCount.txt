@@ -1,0 +1,3 @@
+A cat sat on a hat.
+A hat was sat on by a cat.
+The cat was very fat.

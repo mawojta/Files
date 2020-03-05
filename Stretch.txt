@@ -1,0 +1,3 @@
+The file to stretch.
+Comma (,) should only print once, like periods (.),
+spaces, exlamation points (!), and question marks (?).
